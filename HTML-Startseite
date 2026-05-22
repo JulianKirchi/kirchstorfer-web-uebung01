@@ -1,19 +1,22 @@
+```html
 <!DOCTYPE html>
 <html lang="de">
 <head>
   <meta charset="UTF-8">
   <meta name="viewport" content="width=device-width, initial-scale=1.0">
-  <title>Meine Startseite</title>
+  <title>Meine Startseite</Julian Kirchstorfer>
 </head>
-<body>
 
-  <h1>Vorname Nachname – Klasse</h1>
+<body style="background-color: blue; color: white;">
+
+  <h1>Julian Kirchstorfer – 6R</h1>
 
   <h2>Persönliche Daten</h2>
 
-  <p>
-    Geburtsdatum: TT.MM.JJJJ
-  </p>
+  <p>Geburtsdatum: 08.10.2009</p>
+
+  <p>Lieblingsfarbe: Blau</p>
 
 </body>
 </html>
+```
